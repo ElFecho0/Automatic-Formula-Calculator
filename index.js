@@ -1,5 +1,5 @@
 function pitagorasA(c,b){
-    console.log("Teorema de Pitágoras: Hipotenusa");
+    console.log("Teorema de Pitágoras: Cateto A");
     //a^2 + b^2 = c^2
     //a = sqrt(c^2 - b^2)
 
@@ -9,7 +9,7 @@ function pitagorasA(c,b){
 }
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 function pitagorasB(c,a){
-    console.log("Teorema de Pitágoras: Hipotenusa");
+    console.log("Teorema de Pitágoras: Cateto B");
     //a^2 + b^2 = c^2
     //b = sqrt(c^2 - a^2)
 
